@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](https://github.com/dvicj/react-portfolio/blob/master/src/assets/cover/cover-image.png)
 
 <!--
 **dvicj/dvicj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
